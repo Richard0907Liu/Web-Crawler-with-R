@@ -1,3 +1,14 @@
+# Project guides:
+extract the following 10 fields :
+DOI, Title, Authors, Author Affiliations, Corresponding Author, Corresponding
+Author's Email, Publication Date, Abstract, Keywords, Full Text (Textual format).
+Extracted information should be written into a plain text file (one row per article and one
+column per field). If any columns are not available, please mark them as NA (don’t leave
+them blank).
+
+Finally export the file name: BMC Hereditas.
+
+# Function discription:
 1. title_link(main_page): Find all links in the main page.
 2. read_html(all_link[i]): To read the article page.
 3. crawling(article_page): Find every article's 10 feilds we need.
