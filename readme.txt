@@ -6,7 +6,7 @@ Extracted information should be written into a plain text file (one row per arti
 column per field). If any columns are not available, please mark them as NA (don’t leave
 them blank).
 
-Finally export the file name: BMC Hereditas.
+Finally export the file: BMC Hereditas.
 
 # Function discription:
 1. title_link(main_page): Find all links in the main page.
