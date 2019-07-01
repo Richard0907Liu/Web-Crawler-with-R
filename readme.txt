@@ -1,4 +1,4 @@
-# Project guides:
+# Guides:
 extract the following 10 fields :
 DOI, Title, Authors, Author Affiliations, Corresponding Author, Corresponding
 Author's Email, Publication Date, Abstract, Keywords, Full Text (Textual format).
